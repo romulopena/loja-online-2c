@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo: rgb(163, 50, 50);
+    --cor-de-fundo: #a33232;
 }
 
 body{
@@ -10,6 +10,4 @@ h1{
     background-color: aquamarine;
 }
 
-a{
-    color: white;
-}
+
